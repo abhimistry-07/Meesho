@@ -6,92 +6,87 @@
 
 👋 Welcome to Notion!
 
- landing page .
-
- serch bar 
- adding logo wih help canva
- welcomming login user
- wishlist icon
- cart icon
- responsive images
- responsive footer
+ # Home Decor 
 
 
+### Home Decor is a online-e-commerce website for customised furnitures. An Collaborative project built and executed in 5 days.
+<br/>
 
- // furniture page
+## Tools:
 
- show all product
- adding stick property
- filting with category
- sorting with price
- add to cart button
- add to wishlit buttton
- fotter parts
- show admn adding prodeuct
- add to them in  cart
- add to wishlist this
+<div style='display:flex; gap:10px;justifyContent:flex-start ' >
+<img align="left" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
 
+<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=white" />
 
- //kitchen  page
+ </div>  
+<br/>
 
- show all product
- adding stick property
- filting with category
- sorting with price
- add to cart button
- add to wishlit buttton
- fotter parts
+## Deployed Link:
+**Main Website:** https://super-jalebi-b4e97f.netlify.app/
 
+---
 
- //wishlist page
- show all prodect in wishlist
- add them to cart page
- able to remove from wishlist
+##  Website:
 
+### Pages
 
- // cart page
+* Authentication Page
+* Home Page
+* Product Page
+* Cart Page
+* Wishlist page
+* Admin Page
 
- showing all product
- stick static div in which we can see total of cart and offer part also
- adding product quantity
- decrese product quantity
- remove product from cart
- applying coupen code 
- for 30%
- for 50%
- buy now button 
- after clicking buy now redirecting to login page
+### Features
 
+* Responsive
+* Search
+* Responsive
+* filtering 
+* Sorting
+* Authentication using local Storage
+* Adding Production
+* Discount
+* Buying, Increase and Decrease Quantity
 
+ <br/>
 
-// signup page
-one email use at a time noe reuse of same email
-after signup suceesful data store in localstore
-adding mobile number
-crete password
+## Some Glimpses of Website
 
+---
 
-// login page 
+### Homepage
+<br/>
 
-need to fill email
-need to fill password
+<img src='./images/website.gif'  />
 
-// payment page 
-after adding cart details on clicking submit 
-we receive otp
+----
 
-// otp page
-after conform otp you can able to see recipte of your paymet with 
-your payment amount your name
+### Wislist Page
+<br/>
+
+<img src='./images/wishlist.png'  />
+
+----
+
+### Cart Page
+<br/>
 
 
-// admin page
+<img src='./images/addtocart.png'  />
 
-if you are the admin then you get unique otp
-after conform otp
-you get pruduct adding form
-in the form after filling the product details
-on clicking on sumbmit you get a pop up as product added succesfully
-and product is shown in the furniture page
-able to add to wishlist
-able to add to cart page
+----
+
+### Add Product page
+<br/>
+
+<img src='./images/addproduct.png'  />
+
+---
+<br/>
+
+ <img width='300px' src='https://giffiles.alphacoders.com/165/16529.gif'  />  
+
